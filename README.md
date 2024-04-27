@@ -19,12 +19,7 @@ This repository includes the source code of the paper accepted by xxxxxx.
 ### Dataset:
 
 - We use NYT, icew14, icew15 and finance dataset for event prediction.
-- 
 ### Pretrained Checkpoint:
-
-To enable a quick evaluation, we upload the trained model. 
-Download the checkpoint folders to `./checkpoint/`, and run the evaluation commandline for corresponding dataset.
-81.37 81.52 86.75 79.15
 The 1-step prediction results are:
 
 | Dataset |  NYT   | ICEWS14 | ICEWS15 | Finance | 
@@ -80,7 +75,7 @@ The 4-step prediction results are:
 
 If you used our work or found it helpful, please use the following citation:
 ```
-@inproceedings{KG_S2S,
+@inproceedings{INSEP,
     title = "INSEP: Iterative Evaluation Framework for Script Event Prediction",
     author = "Li, Jinpeng and
       Yu, Hang  and
