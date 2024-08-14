@@ -1,16 +1,16 @@
 ﻿<h1 align="center">
-  MuScb
+  ELM
 </h1>
 
-<h4 align="center">Perceiving the Distant Future: A Multi-Step Prediction Method for Consumer Behavior</h4>
+<h4 align="center">A Evaluation-based Large Model for Multi-step Behavior Prediction in Intelligent Consumer Electronics</h4>
 
 <h2 align="center">
-  Overview of INSEP
+  Overview of ELM
   <img align="center"  src="./main.png" alt="...">
 </h2>
 This repository includes the source code of the paper accepted by xxxxxx. 
 
-[//]: # ([**"Perceiving the Distant Future: A Multi-Step Prediction Method for Consumer Behavior".**]&#40;https://arxiv.org/abs/2209.07299&#41;)
+[//]: # ([**"A Evaluation-based Large Model for Multi-step Behavior Prediction in Intelligent Consumer Electronics".**]&#40;https://arxiv.org/abs/2209.07299&#41;)
 
 ### Dependencies
 
