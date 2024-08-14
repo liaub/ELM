@@ -75,8 +75,8 @@ The 4-step prediction results are:
 
 If you used our work or found it helpful, please use the following citation:
 ```
-@inproceedings{MuScb,
-    title = "Perceiving the Distant Future: A Multi-Step Prediction Method for Consumer Behavior",
+@inproceedings{ELM,
+    title = "A Evaluation-based Large Model for Multi-step Behavior Prediction in Intelligent Consumer Electronics",
     author = "Li, Jinpeng and
       Yu, Hang  and
       Wei, Subo 
