@@ -6,7 +6,7 @@
 
 <h2 align="center">
   Overview of ELM
-  <img align="center"  src="./main.png" alt="...">
+  <img align="center"  src="./main.pdf" alt="...">
 </h2>
 This repository includes the source code of the paper accepted by xxxxxx. 
 
